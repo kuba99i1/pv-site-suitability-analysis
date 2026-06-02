@@ -35,7 +35,3 @@ The analysis combines terrain characteristics, infrastructure availability and e
 
 
 ## Results
-
-The project produced a set of candidate locations for photovoltaic farms together with area statistics and interactive visualizations.
-
-Jakub Magdziarz

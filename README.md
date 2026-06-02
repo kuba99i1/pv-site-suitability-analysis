@@ -32,6 +32,3 @@ The analysis combines terrain characteristics, infrastructure availability and e
 4. Apply spatial constraints and exclusion zones.
 5. Identify candidate areas for PV development.
 6. Visualize results on interactive and static maps.
-
-
-## Results

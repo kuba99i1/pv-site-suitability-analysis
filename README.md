@@ -1,8 +1,8 @@
-# GIS-Based Solar Farm Site Selection
+# Solar Farm Site Selection
 
 ## Project Overview
 
-This project focuses on identifying suitable locations for photovoltaic (PV) farms using GIS and geospatial analysis techniques.
+Project made for the purpose of Analytical Programming course at AGH UST.
 
 The analysis combines terrain characteristics, infrastructure availability and environmental constraints to identify areas with the highest potential for solar farm development.
 
